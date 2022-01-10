@@ -1,4 +1,4 @@
-// Package structs contains various utilities functions to work with structs.
+// Package wstructs contains various utilities functions to work with structs.
 package wstructs
 
 import (

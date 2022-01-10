@@ -16,7 +16,7 @@ Go library for encoding native Go structures into generic map values.
 Use go get.
 
 ```bash
-    go get -u github.com/wyy-go/structs
+    go get -u github.com/wyy-go/wstructs
 ```
 
 Then import the structs package into your own code.
